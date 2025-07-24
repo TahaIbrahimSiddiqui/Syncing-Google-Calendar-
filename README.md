@@ -19,5 +19,7 @@ The primary use case is maintaining calendar availability across different Googl
 
 This automation ensures your availability is accurately reflected across all your Google calendar accounts, streamlining scheduling and preventing conflicts.
 
-Below
+## Below is step by step process
+
+# Step 1: Open your personal account calendar
 
