@@ -1,6 +1,6 @@
 # Google Calendar Auto-Sync
 
-This repository provides a **step-by-step guide** for automatically synchronizing multiple Google calendars into a single unified calendar. Such services are provided by services like [oneCal](https://www.onecal.io/) for money but this is completely free!
+This repository provides a **step-by-step guide** involving zero coding for automatically synchronizing multiple Google calendars into a single unified calendar. Such services are provided by services like [oneCal](https://www.onecal.io/) for money but this is completely **free**!
 
 ## Use Case
 
