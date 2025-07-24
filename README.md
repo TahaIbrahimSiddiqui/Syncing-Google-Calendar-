@@ -22,4 +22,5 @@ This automation ensures your availability is accurately reflected across all you
 ### Below is step by step process
 
 # Step 1: Open your personal account calendar
+![Step](Steps for each stage/ascreenshot.jpeg)
 
