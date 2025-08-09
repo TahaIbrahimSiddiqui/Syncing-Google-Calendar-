@@ -57,7 +57,7 @@ This automation ensures your availability is accurately reflected across all you
 # Step 12:In google apps script, click on New Project 
 ![step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/cae76f17fbd8236f3be26f5812debc6a9e10d1e8/Steps%20for%20each%20stage/ascreenshot%20(15).jpeg)
 
-# Step 13: A code.gs file will open, just delete the funtion there and copy the [script]() given in this repo 
-![step]()
+# Step 13: A code.gs file will open, just delete the funtion there and copy the [script](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/3500397c4e586bd054793470975ad003f08650c9/code.gs.dart) given in this repo 
+![step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/b423887eac439b305d8ee823f3fb57db81f6666b/Steps%20for%20each%20stage/ascreenshot%20(17).jpeg)
 
 
