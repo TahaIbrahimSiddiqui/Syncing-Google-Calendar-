@@ -48,14 +48,16 @@ This automation ensures your availability is accurately reflected across all you
 # Step 9: Click on Drive
 ![step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/cae76f17fbd8236f3be26f5812debc6a9e10d1e8/Steps%20for%20each%20stage/ascreenshot%20(12).jpeg)
 
-# Step 10: Once the drive opens click on New 
+# Step 10: Once the drive opens click on New
 ![step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/cae76f17fbd8236f3be26f5812debc6a9e10d1e8/Steps%20for%20each%20stage/ascreenshot%20(13).jpeg)
 
-# Step 11: Then in the new menu click on google apps script
+# Step 11: Then in the new menu click on more which will show google apps script, click on it
 ![step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/cae76f17fbd8236f3be26f5812debc6a9e10d1e8/Steps%20for%20each%20stage/ascreenshot%20(14).jpeg)
 
 # Step 12:In google apps script, click on New Project 
 ![step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/cae76f17fbd8236f3be26f5812debc6a9e10d1e8/Steps%20for%20each%20stage/ascreenshot%20(15).jpeg)
 
+# Step 13: A code.gs file will open, just delete the funtion there and copy the [script]() given in this repo 
+![step]()
 
 
