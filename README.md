@@ -43,10 +43,19 @@ This automation ensures your availability is accurately reflected across all you
 ![step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/6e2f46cb4b8656ba348f90419542c78b98a51e33/Steps%20for%20each%20stage/ascreenshot%20(7).jpeg)
 
 # Step 8: Now Open your other email (i.e. work email) and click on services menu usually depicted by grid cells
-![step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/6e2f46cb4b8656ba348f90419542c78b98a51e33/Steps%20for%20each%20stage/ascreenshot%20(11).jpeg)
+![step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/cae76f17fbd8236f3be26f5812debc6a9e10d1e8/Steps%20for%20each%20stage/ascreenshot%20(11).jpeg)
 
 # Step 9: Click on Drive
-![step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/6e2f46cb4b8656ba348f90419542c78b98a51e33/Steps%20for%20each%20stage/ascreenshot%20(12).jpeg)
+![step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/cae76f17fbd8236f3be26f5812debc6a9e10d1e8/Steps%20for%20each%20stage/ascreenshot%20(12).jpeg)
+
+# Step 10: Once the drive opens click on New 
+![step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/cae76f17fbd8236f3be26f5812debc6a9e10d1e8/Steps%20for%20each%20stage/ascreenshot%20(13).jpeg)
+
+# Step 11: Then in the new menu click on google apps script
+![step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/cae76f17fbd8236f3be26f5812debc6a9e10d1e8/Steps%20for%20each%20stage/ascreenshot%20(14).jpeg)
+
+# Step 12:In google apps script, click on New Project 
+![step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/cae76f17fbd8236f3be26f5812debc6a9e10d1e8/Steps%20for%20each%20stage/ascreenshot%20(15).jpeg)
 
 
 
