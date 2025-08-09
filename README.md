@@ -54,7 +54,7 @@ This automation ensures your availability is accurately reflected across all you
 # Step 11: Then in the new menu click on more which will show google apps script, click on it
 ![step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/cae76f17fbd8236f3be26f5812debc6a9e10d1e8/Steps%20for%20each%20stage/ascreenshot%20(14).jpeg)
 
-# Step 12:In google apps script, click on New Project 
+# Step 12: In google apps script, click on New Project 
 ![step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/cae76f17fbd8236f3be26f5812debc6a9e10d1e8/Steps%20for%20each%20stage/ascreenshot%20(15).jpeg)
 
 # Step 13: A code.gs file will open, just delete the funtion there and copy the [script](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/3500397c4e586bd054793470975ad003f08650c9/code.gs.dart) given in this repo 
@@ -74,7 +74,7 @@ This automation ensures your availability is accurately reflected across all you
 
 ## ☕ Support My Work: Buy Me a Coffee or Chai! 🍵  
 
-If you enjoy what I’m doing and would like me to continue making such **public data goods**, you can encourage me by **buying me a coffee or chai**!  
+If you enjoy what I’m doing and would like me to continue making such **public goods**, you can encourage me by **buying me a coffee or chai**!  
 
 - **For people abroad**, you can support me [here](https://ko-fi.com/tahaibrahim)  
 - **For people in India** who prefer the ease of UPI, use this [link](https://onlychai.neocities.org/support.html?name=Taha%20Ibrahim%20Siddiqui&upi=taha.i.siddiq-1%40okhdfcbank)  
