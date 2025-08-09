@@ -22,5 +22,8 @@ This automation ensures your availability is accurately reflected across all you
 ### Below is step by step process
 
 # Step 1: Open your personal account calendar
-![Step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/a8e1509479e8d4d8c0bd941e7ea0264fc3002048/Steps%20for%20each%20stage/ascreenshot.jpeg)
+![Step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/a8e1509479e8d4d8c0bd941e7ea0264fc3002048/Steps%20for%20each%20stage/ascreenshot1.jpeg)
+
+# Step 2: Click on settings menu (usaully denoted by cog on top left)
+![Step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/b7238e1242e346f9ad9ad9033841d702a81da145/Steps%20for%20each%20stage/ascreenshot%20(2).jpeg)
 
