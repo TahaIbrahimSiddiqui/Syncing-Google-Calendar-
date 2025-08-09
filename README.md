@@ -61,4 +61,24 @@ This automation ensures your availability is accurately reflected across all you
 
 ![step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/5d303eae21ef32212c19f268aebc8687a87cd3b7/Steps%20for%20each%20stage/ascreenshot%20(17).jpeg)
 
+# Step 14: Change the email address in the script to your source email ids 
+![step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/045c7116156506e3a97fdebea7e0dc6927c19299/Steps%20for%20each%20stage/ascreenshot%20(19).jpeg)
+
+# Step 15: Automate a running of script by setting up triggers, click on clock icon on the left and then add triggers
+![step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/045c7116156506e3a97fdebea7e0dc6927c19299/Steps%20for%20each%20stage/ascreenshot%20(20).jpeg)
+
+# Step 16: Set the trigger accourding to your needs
+![step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/045c7116156506e3a97fdebea7e0dc6927c19299/Steps%20for%20each%20stage/ascreenshot%20(21).jpeg)
+
+**Your calendar sync is done! You can also do this vice versa and add as many accounts you need to this**
+
+## ☕ Support My Work: Buy Me a Coffee or Chai! 🍵  
+
+If you enjoy what I’m doing and would like me to continue making such **public data goods**, you can encourage me by **buying me a coffee or chai**!  
+
+- **For people abroad**, you can support me [here](https://ko-fi.com/tahaibrahim)  
+- **For people in India** who prefer the ease of UPI, use this [link](https://onlychai.neocities.org/support.html?name=Taha%20Ibrahim%20Siddiqui&upi=taha.i.siddiq-1%40okhdfcbank)  
+
+Every little bit helps me keep exploring, analyzing, and developing valuable stuff. Thank you for your support! 🚀  
+
 
