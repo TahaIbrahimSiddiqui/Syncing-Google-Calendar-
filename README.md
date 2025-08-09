@@ -43,8 +43,10 @@ This automation ensures your availability is accurately reflected across all you
 ![step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/6e2f46cb4b8656ba348f90419542c78b98a51e33/Steps%20for%20each%20stage/ascreenshot%20(7).jpeg)
 
 # Step 8: Now Open your other email (i.e. work email) and click on services menu usually depicted by grid cells
-![step](https://scribehow.com/viewer/Create_a_New_Google_Apps_Script__mN2mZh1DSG6FKEubaKzAuA?scrollToActionId=4fb4664b)
+![step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/6e2f46cb4b8656ba348f90419542c78b98a51e33/Steps%20for%20each%20stage/ascreenshot%20(11).jpeg)
 
+# Step 9: Click on Drive
+![step](https://github.com/TahaIbrahimSiddiqui/Syncing-Google-Calendar-/blob/6e2f46cb4b8656ba348f90419542c78b98a51e33/Steps%20for%20each%20stage/ascreenshot%20(12).jpeg)
 
 
 
